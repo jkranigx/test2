@@ -1,2 +1,3 @@
 # test2
-test2 is a test project 
+This is a project I set up to learn how to use GitHub.
+
